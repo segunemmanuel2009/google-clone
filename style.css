@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: 600;
 }
 
 a {
@@ -100,8 +99,11 @@ footer {
   justify-content: space-between;
   align-items: center;
   width: 30%;
+  font-size: 0.8rem;
 }
 
 footer p {
   text-align: center;
+  font-size: 0.8rem;
 }
+
